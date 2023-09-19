@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "72083345267",
+    "firebase_url": "https://datoo-p.firebaseio.com",
+    "project_id": "datoo-p",
+    "storage_bucket": "datoo-p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72083345267:android:6233228574ad5e6b9a7f06",
+        "android_client_info": {
+          "package_name": "com.angopapo.datooapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72083345267-h9jfkk5h8bh8eclubsl6l71i7pc96tqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angopapo.datooapp",
+            "certificate_hash": "34be9da8ebf6725b05c5c137d2987861687c8495"
+          }
+        },
+        {
+          "client_id": "72083345267-q752rqqkl6u85tcbos5i11sjm4qj0mmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angopapo.datooapp",
+            "certificate_hash": "dc3cb4d287b526db04dd9da86df7abd1bf4dadfa"
+          }
+        },
+        {
+          "client_id": "72083345267-hmvuf3u8it6k31n97kjbnvnl6589ugf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angopapo.datooapp",
+            "certificate_hash": "80eb26367e7ecbdef88eb3a93cc582dd1d66ac75"
+          }
+        },
+        {
+          "client_id": "72083345267-qo5ihhckjplm9sh9blgfga1j0mh1gooc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNoW769sFrmjPv5HiFNesdzHy4vEZg3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72083345267-qo5ihhckjplm9sh9blgfga1j0mh1gooc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
